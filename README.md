@@ -1,1 +1,1 @@
-# goredis
+For practice redis golang
